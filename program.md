@@ -19,13 +19,13 @@ title: Program
 
 ## Main Conference Day One: Monday 24th
 <table> <tbody> 
-	<tr><td>08:10 - 08:20</td><td>Chairs' Welcome</td></tr>
+	<tr><td>08:10 - 08:20</td><td>Chairs' Welcome  (Garden Pavilion)</td></tr>
 	<tr>
 		<td>08:20 - 08:30</td>
 		<td><a href="http://www.sigplan.org/Cares/">SIGPLAN CARES</a> intro and <a href="https://www.sigarch.org/benefit/cares">SIGARCH/SIGMICRO CARES</a> intro<br>
                     Peng Wu (Futurewei Technologies) and Timothy Pinkston (University of Southern California)</td>
 	</tr>
-	<tr><td>08:30 - 09:30</td><td><a href="https://www.hpca-conf.org/2020/keynote/">Keynote: Interdisciplinary Research at a Time of Pervasive Changes</a><br>
+	<tr><td>08:30 - 09:30</td><td><a href="https://www.hpca-conf.org/2020/keynote/">Keynote: Interdisciplinary Research at a Time of Pervasive Changes  (Garden Pavilion)</a><br>
 		Josep Torrellas (University of Illinois, Urbana-Champaign)
 	</td></tr>
 	<tr><td>09:35 - 10:25</td><td>Session 1: Dynamic Languages. Session Chair: Simone Campanoni (Northwestern University). Room: Sorrento & San Marino</td></tr> 
@@ -80,7 +80,7 @@ title: Program
 ## Main Conference Day Two: Tuesday 25th
 
 <table> <tbody> 
-	<tr><td>08:30 - 09:30</td><td><a href="">Keynote: Scaling Parallel Programming Beyond Threads</a><br>
+	<tr><td>08:30 - 09:30</td><td><a href="">Keynote: Scaling Parallel Programming Beyond Threads  (Garden Pavilion)</a><br>
 		Michael Garland (NVIDIA Research)
 		</td></tr>
 	<tr><td></td><td>
@@ -162,14 +162,17 @@ title: Program
 ## Main Conference Day Three: Wed 26th
 
 <table> <tbody> 
-	<tr><td>08:30 - 09:30</td><td><a href="https://cgo-conference.github.io/cgo2020/keynotes/">Keynote: MLIR Compiler Infrastructure</a><br>Chris Lattner (SiFive) and Tatiana Shpeisman (Google)</td></tr>
+	<tr><td>08:30 - 09:30</td><td><a href="https://cgo-conference.github.io/cgo2020/keynotes/">Keynote: MLIR Compiler Infrastructure  (Garden Pavilion)</a><br>Chris Lattner (SiFive) and Tatiana Shpeisman (Google)</td></tr>
 	<tr><td></td>
+<!--
 		<td><ul>
 		<li><b>MLIR Compiler Infrastructure</b><br>
 		<i> Chris Lattner (SiFive) and Tatiana Shpeisman (Google)</i>
 		</li>
 		</ul>
-	</td></tr>
+	</td>
+-->
+</tr>
 	<tr><td>09:35 - 10:50</td><td>Session 8: Heterogeneity and Parallelism. Session Chair: Michel Steuwer (University of Glasgow). Room: Sorrento & San Marino</td></tr> 
 	<tr>
 		<td></td>
