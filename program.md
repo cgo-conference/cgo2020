@@ -35,7 +35,7 @@ title: Program
 			<li><b> Efficient Nursery Sizing for Managed Languages on Multi-core Processors with Shared Caches </b><br> 
 				<i> Mohamed Ismail, Edward Suh (Cornell University) </i>
 			</li> 
-			<li><b> Type Freezing: Exploiting Attribute Type Monomorphism in Tracing JIT Compilers &#x1f162</b><br> 
+			<li><b> Type Freezing: Exploiting Attribute Type Monomorphism in Tracing JIT Compilers (<font size=+1  &#x1f162</font></b><br> 
 				<i> Lin Cheng, Berkin Ilbeyi (Cornell University) </i> <br>
 				<i> Carl Friedrich Bolz-Tereick (Heinrich-Heine-Universität Düsseldorf)</i> <br>
 				<i> Christopher Batten (Cornell University) </i> <br>
