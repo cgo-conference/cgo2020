@@ -2,7 +2,7 @@
 layout: content
 title: Program 
 ---
-# Program (The Student Presentations Indicated by &#x1f162)
+# Program (The Student Presentations Indicated by a Circled S)
 
 ## Workshops & Tutorials
 
