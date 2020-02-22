@@ -2,7 +2,7 @@
 layout: content
 title: Program 
 ---
-# Program (The Papers presented by Students are Underlined)
+# Program (The Papers Presented by Students are Underlined)
 
 ## Workshops & Tutorials
 
