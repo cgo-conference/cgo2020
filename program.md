@@ -2,7 +2,7 @@
 layout: content
 title: Program 
 ---
-# Program (The Student Presentations Indicated by a Circled S)
+# Program (The Papers presented by Students are Underlined)
 
 ## Workshops & Tutorials
 
@@ -35,7 +35,7 @@ title: Program
 			<li><b> Efficient Nursery Sizing for Managed Languages on Multi-core Processors with Shared Caches </b><br> 
 				<i> Mohamed Ismail, Edward Suh (Cornell University) </i>
 			</li> 
-			<li><b> Type Freezing: Exploiting Attribute Type Monomorphism in Tracing JIT Compilers   &#x1f162 </b><br> 
+			<li><b>  <u>Type Freezing: Exploiting Attribute Type Monomorphism in Tracing JIT Compilers   </u> </b><br> 
 				<i> Lin Cheng, Berkin Ilbeyi (Cornell University) </i> <br>
 				<i> Carl Friedrich Bolz-Tereick (Heinrich-Heine-Universität Düsseldorf)</i> <br>
 				<i> Christopher Batten (Cornell University) </i> <br>
@@ -45,20 +45,20 @@ title: Program
 	<tr>
 		<td></td>
 		<td> <ul> 
-			<li><b> Low-cost Prediction-based Fault Protection Strategy  &#x1f162 </b><br> 
+			<li><b> <u> Low-cost Prediction-based Fault Protection Strategy  </u> </b><br> 
 				<i> Sunghyun Park, Shikai Li, Ze Zhang, Scott Mahlke (University of Michigan) </i></li> 
-			<li><b> Secure Automatic Bounds Checking: Prevention Is Simpler Than Cure  &#x1f162 </b><br> 
+			<li><b> <u> Secure Automatic Bounds Checking: Prevention Is Simpler Than Cure  </u> </b><br> 
 				<i> John Ojogbo, Mithuna Thottethodi, Terani Vijaykumar (Purdue University) </i></li> 
-			<li><b> Aloe: Verifying Reliability of Approximate Programs in the Presence of Recovery Mechanisms  &#x1f162 </b><br> 
+			<li><b> <u> Aloe: Verifying Reliability of Approximate Programs in the Presence of Recovery Mechanisms </u> </b><br> 
 				<i> Keyur Joshi, Vimuth Fernando, Sasa Misailovic (University of Illinois at Urbana-Champaign) </i></li> 
-			<li><b> Interactive Debugging of Concurrent Programs under Relaxed Memory Models  &#x1f162</b><br> 
+			<li><b> <u> Interactive Debugging of Concurrent Programs under Relaxed Memory Models  </u></b><br> 
 				<i> Aakanksha Verma, Pankaj Kumar Kalita, Awanish Pandey, Subhajit Roy (IIT Kanpur) </i></li> 
 	</ul> </td></tr> 
 	<tr><td>12:35 - 14:00</td><td>Lunch</td></tr> 
 	<tr><td>14:00 - 15:30</td><td>Session 3: Best Paper Finalists. Session Chair: Jingling Xue (UNSW Sydney). Room: Sorrento & San Marino</td></tr> 
 	<tr><td></td>
 		<td> <ul>
-			<li> <b> Testing Static Analyses for Precision and Soundness  &#x1f162 </b> <br>
+			<li> <b> <u>Testing Static Analyses for Precision and Soundness </u> </b> <br>
 				 <i> Jubi Taneja, Zhengyang Liu, John Regehr (University of Utah)</i>
 			</li>
 			<li>
@@ -89,7 +89,7 @@ title: Program
 	<tr>
 		<td></td>
 		<td> <ul> 
-			<li><b> Speculative Reconvergence for Improved SIMT Efficiency  &#x1f162 </b><br> 
+			<li><b> <u> Speculative Reconvergence for Improved SIMT Efficiency  </u> </b><br> 
 				<i> Sana Damani (Georgia Tech) </i> <br>
 				<i> Daniel Johnson, Mark Stephenson, Stephen W. Keckler (NVIDIA) </i> <br>
 				<i> Eddie Yan (University of Washington)</i> <br>
@@ -107,7 +107,7 @@ title: Program
 		<td> <ul> 
 			<li><b> Multi-Layer Optimizations for End-to-End Data Analytics </b><br> 
 				<i> Amir Shaikhha, Maximilian Schleich, Alexandru Ghita, Dan Olteanu (University of Oxford) </i></li> 
-			<li><b> Optimizing Ordered Graph Algorithms with Graphlt  &#x1f162</b><br> 
+			<li><b> <u> Optimizing Ordered Graph Algorithms with Graphlt </u></b><br> 
 				<i> Yunming Zhang, Ajay Brahmakshatriya, Xinyi Chen (MIT) </i> <br>
 				<i> Laxman Dhulipala (Carnegie Mellon University) </i> <br>
 				<i> Shoaib Kamil (Adobe Research) </i> <br>
@@ -125,7 +125,7 @@ title: Program
 	<tr><td>14:00 - 15:15</td><td>Session 6: Tool and Practical Experience Papers. Session Chair: Vijay Janapa Reddi (Harvard University). Room: Sorrento & San Marino</td></tr> 
 	<tr><td></td>
 		<td> <ul>
-			<li> <b> AN5D: Automated Stencil Framework for High-Degree Temporal Blocking on GPUs  &#x1f162</b> <br>
+			<li> <b> <u> AN5D: Automated Stencil Framework for High-Degree Temporal Blocking on GPUs  </u> </b> <br>
 				 <i> Kazuaki Matsumura (Barcelona Supercomputing Center)</i> <br>
 				 <i> Hamid Reza Zohouri (Tokyo Institute of Technology, Japan)</i> <br>
 				 <i> Mohamed Wahib (National Institute of Advanced Industrial Science and Technology, Japan)</i> <br>
@@ -133,7 +133,7 @@ title: Program
 				 <i> Satoshi Matsuoka (Riken-Center for Computational Science, Japan)</i> <br>
 			</li>
 			<li>
-				<b> The Design and Implementation of the Wolfram Language Compiler  &#x1f162</b> <br>
+				<b> <u> The Design and Implementation of the Wolfram Language Compiler  </u> </b> <br>
 				<i> Abdul Dakkak (UIUC) </i> <br>
 				<i> Tom Wickham-Jones (Wolfram Research)</i> <br>
 				<i> Wen-mei Hwu (UIUC)</i> <br>
@@ -147,7 +147,7 @@ title: Program
 	<tr> <td> 15:45 - 16:35</td> <td> Session 7: Code Optimization. Session Chair: Christophe Dubach (McGill University). Room: Sorrento & San Marino </td> </tr>
 	<tr><td></td>
 		<td> <ul>
-			<li> <b> NeuroVectorizer: End-to-End Vectorization with Deep Reinforcement Learning  &#x1f162</b> <br>
+			<li> <b> <u> NeuroVectorizer: End-to-End Vectorization with Deep Reinforcement Learning  </u> </b> <br>
 				 <i> Ameer Haj-Ali (UC Berkeley); Nesreen K. Ahmed, Ted Willke (Intel Labs)</i> <br>
 				 <i> Sophia Shao, Krste Asanovic, Ion Stoica (UC Berkeley)</i> <br>
 			</li>
@@ -184,10 +184,10 @@ title: Program
 				<i> Hugh Leather (University of Edinburgh)</i> <br>
 				<i> John Thomson (University of St Andrews)</i> <br>
 			</li> 
-			<li><b> PreScaler: An Efficient System-aware Precision Scaling Framework on Heterogeneous Systems  &#x1f162</b><br> 
+			<li><b> <u> PreScaler: An Efficient System-aware Precision Scaling Framework on Heterogeneous Systems  </u> </b><br> 
 				<i> Seokwon Kang, Kyunghwan Choi, Yongjun Park (Hanyang University) </i> <br>
 			</li>
-			<li><b> ATMem: Adaptive Data Placement in Graph Applications on Heterogeneous Memories  &#x1f162 </b><br> 
+			<li><b> <u> ATMem: Adaptive Data Placement in Graph Applications on Heterogeneous Memories  </u> </b><br> 
 				<i> Yu Chen (college of William & Mary) </i> <br>
 				<i> Ivy Peng (Lawrence Livermore National Laboratory)</i> <br>
 				<i> Zhen Peng, Xu Liu, Bin Ren (College of William & Mary)</i> <br>
@@ -198,12 +198,12 @@ title: Program
 	<tr>
 		<td></td>
 		<td> <ul> 
-			<li><b> Automatic Generation of High-Performance Quantized Machine Learning Kernels  &#x1f162</b><br> 
+			<li><b> <u> Automatic Generation of High-Performance Quantized Machine Learning Kernels </u></b><br> 
 				<i> Meghan Cowan, Thierry Moreau, Tianqi Chen (University of Washington) </i> <br>
 				<i> James Bornholt (University of Texas at Austin) </i> <br>
 				<i> Luis Ceze (University of Washington) </i> <br>
 			</li> 
-			<li><b> Deriving Parametric Multi-way Recursive Divide-&-Conquer Dynamic Programming Algorithms using Polyhedral Compilers  &#x1f162</b><br> 
+			<li><b> <u> Deriving Parametric Multi-way Recursive Divide-&-Conquer Dynamic Programming Algorithms using Polyhedral Compilers  </u> </b><br> 
 				<i> Mohammad Mahdi Javanmard, Zafar Ahmad (Stony Brook University) </i> <br>
 				<i> Martin Kong (University of Oklahoma) </i> <br>
 				<i> Louis-Noël Pouchet (Colorado State University) </i> <br>
