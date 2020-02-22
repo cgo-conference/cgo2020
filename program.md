@@ -1,8 +1,8 @@
 ---
 layout: content
-title: Program (The Student Presentations Indicated by &#x1f162)
+title: Program 
 ---
-# Program
+# Program (The Student Presentations Indicated by &#x1f162)
 
 ## Workshops & Tutorials
 
