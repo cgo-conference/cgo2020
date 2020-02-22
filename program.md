@@ -113,7 +113,7 @@ title: Program
 				<i> Shoaib Kamil (Adobe Research) </i> <br>
 				<i> Saman Amarasinghe, Julian Shun (Massachusetts Institute of Technology) </i> <br>
 			</li> 
-			<li><b> A Performance-Optimizing Compiler for Cyber-Physical Digital Microfluidic Biochips  &#x1f162</b><br> 
+			<li><b> <u> A Performance-Optimizing Compiler for Cyber-Physical Digital Microfluidic Biochips  </u></b><br> 
 				<i> Tyson Loveless, Jason Ott, Philip Brisk (University of California, Riverside) </i></li> 
 			<li><b> CogniCrypt_GEN - Generating Code for the Secure Usage of Crypto APIs </b><br> 
 				<i> Stefan Krüger (Paderborn University) </i> <br>
