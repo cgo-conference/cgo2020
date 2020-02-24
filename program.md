@@ -72,9 +72,9 @@ title: Program
 			</li>
 	</ul> </td></tr> 
 	<tr><td>15:40 - 16:10</td><td>	Coffee Break</td></tr>
-	<tr><td>16:10 - 18:00</td><td>	SRC Presentations. Room: Sorrento & San Marino.</td></tr>
-	<tr><td>17:00 - 18:00</td><td>	CGO Artifact Evaluation session. Room: Sorrento & San Marino.</td></tr>
-	<tr><td>18:00 - 19:00</td><td>	CGO Business Meeting. Room: Sorrento & San Marino.</td></tr>
+	<tr><td>16:10 - 18:00</td><td>	SRC Presentations. Room: Sorrento & San Marino</td></tr>
+	<tr><td>17:00 - 18:00</td><td>	CGO Artifact Evaluation session. Room: Garden Pavilion </td></tr>
+	<tr><td>18:00 - 19:00</td><td>	CGO Business Meeting. Room: Sorrento & San Marino</td></tr>
 </tbody></table>
 
 ## Main Conference Day Two: Tuesday 25th
