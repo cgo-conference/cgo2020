@@ -156,7 +156,7 @@ title: Program
 				<i> Michael Leonard, Simone Campanoni (Northwestern University) </i> <br>
 			</li>
 	</ul> </td></tr>
-	<tr><td>17:30 - 21:00</td><td>	Excursion<br> the Sea World excursion buses start leaving from the hotel at 5:30pm</td></tr>
+	<tr><td>17:30 - 21:00</td><td>	<a href="https://drive.google.com/file/d/1AUbYLYVTXLND8oDsK9IGRAz_3vAWEQdA/view">Excursion</a><br> the Sea World excursion buses start leaving from the hotel at 5:30pm</td></tr>
 </tbody></table>
 
 ## Main Conference Day Three: Wed 26th
