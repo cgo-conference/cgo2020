@@ -34,5 +34,7 @@
 #   text: Early Registration Deadline
 - date: January 8, 2020
   text: Camera Ready
+  done: yes
 - date: February 22 - 26, 2020
   text: Conference Dates
+  done: yes
